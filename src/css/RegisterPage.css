@@ -1,0 +1,26 @@
+.register {
+  background-image: url("../images/wallpaper.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+}
+.form-div {
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 20px;
+  box-shadow: 2px 3px 4px lightgrey;
+  border: 2px solid lightgrey;
+  border-radius: 10px;
+}
+.register-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
